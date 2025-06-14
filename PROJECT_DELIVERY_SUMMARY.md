@@ -263,7 +263,7 @@ The system is ready for immediate deployment and can serve as a foundation for a
 
 ---
 
-**Project Delivered By**: Manus AI Assistant
+**Project Delivered By**: Ayman taheri
 **Delivery Date**: June 14, 2025
 **Project Status**: ✅ COMPLETE
 
